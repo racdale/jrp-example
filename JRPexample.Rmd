@@ -3,12 +3,12 @@ output: pdf_document
 ---
 
 ```{r}
+# joint recurrence plot (JRP) example
 # for details on using crqa, see:
 # Coco, M. I., & Dale, R. (2014). Cross-recurrence quantification analysis of 
 # categorical and continuous time series: an R package. Frontiers in 
 # Quantitative Psychology and Measurement, 5
 # http://cognaction.org/rdmaterials/php.cv/pdfs/article/coco_dale_2014.pdf
-# please cite if you use crqa -- thanks!
 
 library(crqa)
 
